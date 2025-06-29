@@ -1,6 +1,9 @@
-{
-  "name": "App 1",
-  "description": "Testing Only",
-  "icon_url": "https:\/\/drive.google.com\/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At",
-  "download_url": "https:\/\/drive.google.com\/uc?export=download&id=1lQN4tVJUK4Z1RFNKwGzEYKmhhYF9O7At"
-}
+[
+    {
+        "name": "Productivity Pro",
+        "description": "Boost your efficiency with this all-in-one productivity app.",
+        "icon_url": "https://via.placeholder.com/150",
+        "download_url": "https://example.com/productivity-pro"
+    },
+    ...
+]
