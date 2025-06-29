@@ -10,5 +10,17 @@
         "description": "A new app description.",
         "icon_url": "https://via.placeholder.com/150",
         "download_url": "https://example.com/new-app"
-    }
+    }, 
+    {
+        "name": "Productivity Pro",
+        "description": "Boost your efficiency with this all-in-one productivity app.",
+        "icon_url": "https://via.placeholder.com/150",
+        "download_url": "https://example.com/productivity-pro"
+    },
+    {
+        "name": "New App",
+        "description": "A new app description.",
+        "icon_url": "https://via.placeholder.com/150",
+        "download_url": "https://example.com/new-app"
+    } 
 ]
